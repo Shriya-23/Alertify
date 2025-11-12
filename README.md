@@ -153,6 +153,6 @@ shriya.sharma1923@gmail.com
 
 💼 About Author
 
-Hi! I’m Shriya Sharma-A Computer Science student passionate about building practical, data-driven, and impactful tech solutions.
+Hey There! I’m Shriya Sharma-A Computer Science student passionate about building practical, data-driven, and impactful tech solutions.
 
 I love transforming ideas into simple, meaningful tools that bridge the gap between technology and real-world problems.
